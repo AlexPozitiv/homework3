@@ -6,5 +6,5 @@
 // See https://aka.ms/new-console-template for more information
 
 int x = 180;
-int resul = -6  
+int resul = 6;  
 
